@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "311703980710",
+    "project_id": "smartsupport-445c6",
+    "storage_bucket": "smartsupport-445c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311703980710:android:b023c7d775a5afd2208267",
+        "android_client_info": {
+          "package_name": "com.interlogicglobal.servicios"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311703980710-lojjt52gb1nnantnpc15e4g4hlc13b1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPqmbzhq93BrSzacSfLjJoLpONnFI9ahk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311703980710-lojjt52gb1nnantnpc15e4g4hlc13b1h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311703980710:android:1d131bc9048dc2f8208267",
+        "android_client_info": {
+          "package_name": "com.interlogicglobal.smartsupport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311703980710-lojjt52gb1nnantnpc15e4g4hlc13b1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPqmbzhq93BrSzacSfLjJoLpONnFI9ahk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311703980710-lojjt52gb1nnantnpc15e4g4hlc13b1h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
